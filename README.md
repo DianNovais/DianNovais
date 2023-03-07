@@ -3,7 +3,7 @@
 
 ## Links Importantes
 [![Portfólio](https://img.shields.io/badge/Portfólio-blue?style=for-the-badge&logo=About.me&logoColor=white
-)](https://www.dian.ga)
+)](https://diannovais.netlify.app/)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/dian-novais-3872ab22b/)
 
