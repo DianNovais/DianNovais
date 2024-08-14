@@ -8,7 +8,7 @@
 )](https://www.linkedin.com/in/dian-novais-3872ab22b/)
 
 
-![Dian Novais GitHub stats](https://github-readme-stats.vercel.app/api?username=DianNovais&show_icons=true&theme=cobalt)
+![Dian Novais GitHub stats](https://github-readme-stats.vercel.app/api?username=DianNovais&show_icons=true&theme=cobalt) 
 
 ## Skills
 
